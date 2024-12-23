@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate data analytics</h3>
 
 - 🔭 I’m currently working on **data analysis**
 
