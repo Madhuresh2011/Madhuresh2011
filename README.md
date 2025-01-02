@@ -10,17 +10,17 @@
 
 <p align="left"> <a href="https://twitter.com/@madhuresh_raj" target="blank"><img src="https://img.shields.io/twitter/follow/madhuresh raj?logo=twitter&style=for-the-badge" alt="@madhuresh_raj" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://madhureshportfolio.netlify.app/)
+- 🔭 I’m currently working on [My Portfolio.](https://madhureshportfolio.netlify.app/)
 
-- 🌱 I’m currently learning **data analytics**
+- 🌱 I’m currently learning **data analytics.**
 
-- 🤝 I’m looking for help with [Gen-Z](https://github.com/Madhuresh2011/kulturehire-Internship)
+- 🤝 I’m looking for help with [Gen-Z Project.](https://github.com/Madhuresh2011/kulturehire-Internship)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Madhuresh2011](https://github.com/Madhuresh2011)
 
 - 📝 I regularly solved questions of [https://github.com/Madhuresh2011/50-days-sql-challenge](https://github.com/Madhuresh2011/50-days-sql-challenge)
 
-- 💬 Ask me about **Excel,Python,SQL,Power BI and related to data anlytics**
+- 💬 Ask me about **Excel,Python,SQL,Power BI and related to data anlytics.**
 
 - 📫 How to reach me **madhuhreshraj2004@gmail.com**
 
@@ -31,9 +31,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@madhuresh_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@madhuresh_raj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/madhuresh-raj-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhuresh-raj-" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/madhuresh-raj-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhuresh-raj-867b49258/" height="30" width="40" /></a>
 <a href="https://fb.com/madhuresh raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhuresh raj" height="30" width="40" /></a>
-<a href="https://instagram.com/_madhuresh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_madhuresh__" height="30" width="40" /></a>
+<a href="https://instagram.com/__madhuresh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__madhuresh_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
