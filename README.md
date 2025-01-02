@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhuresh2011" alt="madhuresh2011" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@madhuresh_raj" target="blank"><img src="https://img.shields.io/twitter/follow/@madhuresh_raj?logo=twitter&style=for-the-badge" alt="@madhuresh_raj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@madhuresh_raj" target="blank"><img src="https://img.shields.io/twitter/follow/@madhuresh_raj?logo=twitter&style=for-the-badge" alt="madhuresh_raj" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://madhureshportfolio.netlify.app/)
 
@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/madhuresh_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@madhuresh_raj" height="30" width="40" /></a>
+<a href="https://twitter.com/@madhuresh_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@madhuresh_raj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/madhuresh-raj-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhuresh-raj-" height="30" width="40" /></a>
 <a href="https://fb.com/madhuresh raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhuresh raj" height="30" width="40" /></a>
 <a href="https://instagram.com/_madhuresh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_madhuresh__" height="30" width="40" /></a>
