@@ -44,7 +44,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/D4D12AQG7FHyRGR1mRg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1661493497844?e=2147483647&v=beta&t=SCJf_n-JishzOROeGqlypiw2GpXLVPoUTeNMrKcbMFs" alt="Numpy" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?q=matplotlib%20image&imgurl=https%3A%2F%2F360digitmg.com%2Fuploads%2Fblog%2Fe417d8bc9e498cee7d9922c8c4342915.png&imgrefurl=https%3A%2F%2F360digitmg.com%2Fblog%2Fmatplotlib&docid=GnNfnqe-HGn_OM&tbnid=Ick6EmwsRxMx5M&vet=12ahUKEwjd5-y78NaKAxWr1DQHHcuABEUQM3oECGUQAA..i&w=1200&h=628&hcb=2&ved=2ahUKEwjd5-y78NaKAxWr1DQHHcuABEUQM3oECGUQAA" alt="matplotlib" width="40" height="40"/> </a>   
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://studyopedia.com/wp-content/uploads/2022/12/Matplotlib-featured-image-studyopedia.png" alt="matplotlib" width="40" height="40"/> </a>   
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 </p>
 
