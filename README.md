@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/madhuresh-raj-867b49258/](https://www.linkedin.com/in/madhuresh-raj-867b49258/)
 
-- ⚡ Fun fact **Cricket🏏**
+- ⚡ Fun fact **Cricket🏏,Chess.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
