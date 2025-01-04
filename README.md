@@ -16,15 +16,15 @@
 
 - 🤝 I’m looking for help with [Gen-Z Project.](https://github.com/Madhuresh2011/kulturehire-Internship)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Madhuresh2011](https://github.com/Madhuresh2011)
+- 👨‍💻 All of my projects are available at [Github.](https://github.com/Madhuresh2011)
 
-- 📝 I regularly solved questions of [https://github.com/Madhuresh2011/50-days-sql-challenge](https://github.com/Madhuresh2011/50-days-sql-challenge)
+- 📝 I regularly solved questions of [50-days-sql-challenge-Series.](https://github.com/Madhuresh2011/50-days-sql-challenge)
 
 - 💬 Ask me about **Excel,Python,SQL,Power BI and related to data anlytics.**
 
 - 📫 How to reach me **madhuhreshraj2004@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/madhuresh-raj-867b49258/](https://www.linkedin.com/in/madhuresh-raj-867b49258/)
+- 📄 Know about my experiences [Resume.](https://drive.google.com/file/d/1js34OnisaPrkxWU9DPOKDZ0xMFx3ElCz/view?usp=drive_link)
 
 - ⚡ Fun fact **Cricket🏏,Chess.**
 
