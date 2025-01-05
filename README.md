@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **madhuhreshraj2004@gmail.com**
 
-- 📄 Know about my experiences [Resume.](https://drive.google.com/file/d/1js34OnisaPrkxWU9DPOKDZ0xMFx3ElCz/view?usp=drive_link)
+- 📄 Know about my experiences [Resume.](https://drive.google.com/file/d/1phfwGKDaY-zQoyrGXpeGxNgujWhAvZyi/view?usp=drive_link)
 
 - ⚡ Fun fact **Cricket🏏,Chess.**
 
