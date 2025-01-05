@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/@madhuresh_raj" target="blank"><img src="https://img.shields.io/twitter/follow/madhuresh raj?logo=twitter&style=for-the-badge" alt="@madhuresh_raj" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio.](https://madhureshportfolio.netlify.app/)
+- 🔭 I’m currently working on projects.
 
 - 🌱 I’m currently learning **data analytics.**
 
@@ -23,6 +23,8 @@
 - 💬 Ask me about **Excel,Python,SQL,Power BI and related to data anlytics.**
 
 - 📫 How to reach me **madhuhreshraj2004@gmail.com**
+
+- 👤Visit my [Portfolio.](https://madhuresh-portfolio.netlify.app/)
 
 - 📄 Know about my experiences [Resume.](https://drive.google.com/file/d/1phfwGKDaY-zQoyrGXpeGxNgujWhAvZyi/view?usp=drive_link)
 
