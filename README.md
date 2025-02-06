@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [Github.](https://github.com/Madhuresh2011)
 
-- 📝 I regularly solved questions of [50-days-sql-challenge-Series.](https://github.com/Madhuresh2011/50-days-sql-challenge)
+- 📝 I regularly solved questions of [Daily-SQL-Questions-From-HackerRank.](https://github.com/Madhuresh2011/Daily-SQL-From-HackerRank)
 
 - 💬 Ask me about **Excel,Python,SQL,Power BI and related to data anlytics.**
 
