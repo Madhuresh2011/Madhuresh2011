@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Madhuresh Raj</h1>
-<h3 align="center">A Passionate Data Analytics From India</h3>
+<h3 align="center">A Passionate Data Analyst From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhuresh2011&label=Profile%20views&color=0e75b6&style=flat" alt="madhuresh2011" /> </p>
 
